@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199779764705",
+    "firebase_url": "https://peliculasomdb-f55dd.firebaseio.com",
+    "project_id": "peliculasomdb-f55dd",
+    "storage_bucket": "peliculasomdb-f55dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199779764705:android:40060a0cac4abe66d7eaa0",
+        "android_client_info": {
+          "package_name": "com.example.peliculasomdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199779764705-dihf2qbj3d42epe1nh0qmsh6g7eqip5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peliculasomdb",
+            "certificate_hash": "b495ccd0666bd68e76b606b655bf4f4585fe787e"
+          }
+        },
+        {
+          "client_id": "199779764705-de00dsseumv5cg1dvdp5t38g34veqb5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwEXPGixHPtwEeMg9Rrl-asXYjcC6JUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199779764705-de00dsseumv5cg1dvdp5t38g34veqb5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

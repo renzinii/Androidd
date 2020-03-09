@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PeliculasOMDB</string>
+    <string name="apipath">http://www.omdbapi.com/?t=</string>
+    <string name="apikey">&amp;apikey=3fa1a5eb</string>
+</resources>
